@@ -20,7 +20,7 @@ Steps Followed
 
 Output
 Below is the actual vs predicted stock price graph:
-![Stock Prediction](prediction_plot.png)
+![Stock Prediction](prediction_plot.jpg)
 
 Author
 Mounika K  
